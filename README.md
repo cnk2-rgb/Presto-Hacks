@@ -7,3 +7,4 @@ Interactive sections using Javascript (countdown clock, schedule, FAQ) were code
 
 The finished website can be viewed here: https://prestohacks.claricekim.repl.co/
 >>>>>>> 95f83f7650a25e3228ccb12fc4bb14de200aa7f0
+# cnk2-rgb
